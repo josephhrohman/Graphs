@@ -16,7 +16,7 @@ Facebook Like & Comment
 Facebook Search for Friend (breadth vs width)
 
 ### Why Graphs are Useful:
-
+Graphs are eeeeverywhere. 
 
 ### Useful Links Regarding Graphs
 - General Backgound Info: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
