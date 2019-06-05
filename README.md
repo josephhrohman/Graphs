@@ -8,7 +8,8 @@
 *While non-linear, graphs can exist as directed and undirected data structures where :*
 
 ### Directed Vs Undirected
-*Think one-way flight vs round-trip.
+![Le Graph Charts](img/direction_graphs.png)
+<br />*Think one-way flight vs round-trip.
 - *Directed:   **Node(A) -----> Node(B)** (A) is connected to (B), however (B) is **NOT** connected to (A)*
 - *Undirected: **Node(B) <----> Node(C)** : (B) is connected to (C) **AND** (C) is connected to (B)*
 
