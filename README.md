@@ -7,11 +7,13 @@
 *While non-linear, graphs can exist as directed and undirected data structures where :*
 
 ### Directed Vs Undirected
+*Think one-way flight vs round-trip.
 - *Directed:   **Node(A) -----> Node(B)** (A) is connected to (B), however (B) is **NOT** connected to (A)*
 - *Undirected: **Node(B) <----> Node(C)** : (B) is connected to (C) **AND** (C) is connected to (B)*
 
 ### Examples of Graph Implementation:
-
+Facebook Like & Comment
+Facebook Search for Friend (breadth vs width)
 
 ### Why Graphs are Useful:
 
