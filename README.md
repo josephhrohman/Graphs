@@ -15,7 +15,7 @@
 
 ### Examples of Graph Implementation:
 Facebook Like & Comment
-Facebook Search for Friend (breadth vs width)
+Facebook Search for Friend (breadth vs depth)
 
 ### Why Graphs are Useful:
 Graphs are eeeeverywhere. 
