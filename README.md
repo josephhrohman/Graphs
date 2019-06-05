@@ -1,4 +1,31 @@
 # Graphs
+
+### At a Glance:
+*The graph is a non-linear data structure consisting of two elements:*
+- ***NODES** : A set of data points*
+- ***EDGES** : The connections between the data points*
+*While non-linear, graphs can exist as directed and undirected data structures where :*
+
+### Directed Vs Undirected
+- *Directed:   **Node(A) -----> Node(B)** (A) is connected to (B), however (B) is **NOT** connected to (A)*
+- *Undirected: **Node(B) <----> Node(C)** : (B) is connected to (C) **AND** (C) is connected to (B)*
+
+### Examples of Graph Implementation:
+
+
+### Why Graphs are Useful:
+
+
+### Useful Links Regarding Graphs
+- General Backgound Info: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
+- Data structures: Introduction to graphs : https://www.youtube.com/watch?v=gXgEDyodOJU
+- 
+- 
+
+
+
+
+
 A short CS presentation on Graphs
 
 ## Deliverables
@@ -9,3 +36,4 @@ A short CS presentation on Graphs
   - A link to all relevant resources. This can include the software's site, a helpful tutorial site, a medium article, etc.
   
   Submit a link to your repository (including the README.md with paragraphs and links) to the slack channel.
+
