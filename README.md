@@ -1,6 +1,7 @@
 # Graphs
- ![alt text](../img/sponge.png)
- 
+
+ <img src="../img/sponge.png" alt="El Sponge">
+
 ### At a Glance:
 *The graph is a non-linear data structure consisting of two elements:*
 - ***NODES** : A set of data points*
