@@ -1,5 +1,6 @@
 ![Le Sponge](img/sponge.png)
 # Graphs
+**Best Link:** https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 
 ### At a Glance:
 *A graph is a non-linear data structure consisting of two elements:*
@@ -30,6 +31,7 @@ Facebook Search for Friend (breadth vs depth)
 - Data structures: Introduction to graphs : https://www.youtube.com/watch?v=gXgEDyodOJU
 - Graph Interview Questions: https://stackabuse.com/graph-data-structure-interview-questions/
 - https://visualgo.net/en/graphds?slide=1
+- Pretty much single source of truth : https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 
 
 
