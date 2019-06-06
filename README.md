@@ -1,5 +1,6 @@
 ![Le Sponge](img/sponge.png)
 # Graphs
+**Best Link:** https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 
 ### At a Glance:
 *The graph is a non-linear data structure consisting of two elements:*
@@ -23,14 +24,7 @@ Graphs are eeeeverywhere.
 ### Useful Links Regarding Graphs
 - General Backgound Info: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
 - Data structures: Introduction to graphs : https://www.youtube.com/watch?v=gXgEDyodOJU
-- 
-- 
-
-
-
-
-
-A short CS presentation on Graphs
+- Pretty much single source of truth : https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 
 ## Deliverables
   - A repository on Github with a `README.md`
