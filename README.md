@@ -21,10 +21,10 @@ Graphs are eeeeverywhere because they represent a lot of real-world relationship
 For instance, graphs are frequently used to represent maps and networks. A map is a graph of locations (nodes) and the routes between them (edges). Think of a highway system or trails leading to different features in a state park. Networks show associations between a group of people or things.
 
 ### Examples of Graph Implementation:
-Highway System
-The Six Degrees of Association
-Facebook Like & Comment
-Facebook Search for Friend (breadth vs depth)
+- Highway System
+- The Six Degrees of Association
+- Facebook Like & Comment
+- Facebook Search for Friend (breadth vs depth)
 
 ### Useful Links Regarding Graphs
 - General Backgound Info: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
