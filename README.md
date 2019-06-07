@@ -22,7 +22,7 @@ For instance, graphs are frequently used to represent maps and networks. A map i
 
 ### Examples of Graph Implementation:
 - Highway System
-- The Six Degrees of Association
+- The Six Degrees of Seperation
 - Facebook Like & Comment
 - Facebook Search for Friend (breadth vs depth)
 
