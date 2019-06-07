@@ -23,7 +23,8 @@ To represent a graph in code, we use adjacency list or an adjancency matrix.
 *Adjacency Matrix*
 ![Adjacency Matrix](img/Adjacency-Matrix.jpg)
 
-
+*Adjacency List*
+![Adjacency List](img/adjacency_list_representation.png)
 
 ### Why Graphs are Useful:
 Graphs are eeeeverywhere because they represent a lot of real-world relationships.
