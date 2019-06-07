@@ -26,6 +26,9 @@ For instance, graphs are frequently used to represent maps and networks. A map i
 - Facebook Like & Comment
 - Facebook Search for Friend (breadth vs depth)
 
+## How Graphs are Represented in Code
+To represent a graph in code, we use adjacency list or an adjancency matrix.
+
 ### Useful Links Regarding Graphs
 - General Backgound Info: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
 - Data structures: Introduction to graphs : https://www.youtube.com/watch?v=gXgEDyodOJU
