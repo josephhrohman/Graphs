@@ -5,12 +5,12 @@
 ### At a Glance:
 *A graph is a non-linear data structure consisting of two elements:*
 - ***NODES** (or vertices) : A set of data points*
-- ***EDGES** : The connections between nodes*
+- ***EDGES** (or lines): The connections between nodes*
 
-
+Each node is a structure and contains information like person id, name, gender, etc. The edges connecting nodes can represent a one-way relationship, called a directed edge, or a mutual, two-way relationship, called an undirected edge.
 
 ### Directed Vs Undirected
-*While non-linear, graphs can exist as directed and undirected data structures where :*
+*While non-linear, graphs can exist as directed and undirected data structures:*
 ![Le Graph Charts](img/direction_graphs.png)
 <br />*Think one-way flight vs round-trip.
 - *Directed:   **Node(A) -----> Node(B)** (A) is connected to (B), however (B) is **NOT** connected to (A)*
