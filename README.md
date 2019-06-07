@@ -18,7 +18,7 @@
 
 ### Why Graphs are Useful:
 Graphs are eeeeverywhere because they represent a lot of real-world relationships.
-For instance, graphs are frequently used to represent maps and networks. A map is a graph of locations (nodes) and the routes between them (edges). Think of a highway system or trails leading to different features in a state park. Networks show associations between a group of people or things.
+For instance, graphs are frequently used to represent maps and networks. A map is a graph of locations (nodes) and the routes between them (edges). Think of a highway system or trails leading to different features in a state park. Networks show associations between a group of people or things, like a telephone network or a social network.
 
 ### Examples of Graph Implementation:
 - Highway System
